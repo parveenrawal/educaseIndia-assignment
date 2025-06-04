@@ -97,7 +97,7 @@ const Signup = () => {
                     </form>
                 </div>
 
-                <BtnPrimary>Create Account</BtnPrimary>
+                <LINK to="/user-profile"><BtnPrimary>Create Account</BtnPrimary></LINK>
 
             </div>
 

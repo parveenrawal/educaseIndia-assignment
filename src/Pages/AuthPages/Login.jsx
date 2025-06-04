@@ -34,12 +34,12 @@ const Login = () => {
                             />
                         </div>
 
-                        <button
+                        <Link to="/user-profile"><button
                             type="submit"
                             className="w-full my-3 py-3 bg-gray-300 text-white font-semibold rounded-md"
                         >
                             Login
-                        </button>
+                        </button></Link>
                     </form>
                 </div>
 

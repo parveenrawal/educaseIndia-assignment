@@ -14,7 +14,7 @@ function App() {
         <h1>Welcome to PopX</h1>
         <p className='mt-1 mb-[30px]'>Lorem ipsum dolor sit, amet consectetur adipisicing elit,</p>
         <Link to='/signup'><BtnPrimary>Create Account</BtnPrimary></Link>
-       <Link to='/login'><BtnSecondary>Already Registered? Login</BtnSecondary></Link>
+        <Link to='/login'><BtnSecondary>Already Registered? Login</BtnSecondary></Link>
       </div>
 
     </>
